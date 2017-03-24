@@ -305,16 +305,26 @@ button.s:hover {
     padding: 0 10px;
 }
 .social-media a {
-    text-decoration: none;
-    color: #fff;
+        text-decoration: none;
+    color: #a55555;
+    height: 63px;
+    line-height: 61px;
+    padding: 6px 10px;
+    font-size: 20px;
+    width: 59px;
+    background: white;
+    border-radius: 100%;
+}
+.fa {
+	width: 18px;
 }
 ul.social-icons {
     margin: 0;
     padding: 0;
 }
 a.social-icon:hover  {
-	color: #edff00;
-	font-size: 28px;
+	color: white;
+	background-color: #a55555
 }
 input.form-control {
     margin-top: 15px;
